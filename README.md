@@ -17,9 +17,12 @@ This project demonstrates a Python pipeline that utilizes Hugging Face's transfo
 git clone https://github.com/your_username/your_project.git
 cd your_project
 ````
-2. Create a .env file in the root directory and add your Hugging Face Hub API token
 
+2. Create a .env file in the root directory and add your Hugging Face Hub API token
+   
+```bash
 HUGGINGFACEHUB_API_TOKEN=your_api_token_here
+```
 
 3. Run the image-to-text and text-to-speech pipeline:
 ```bash 
