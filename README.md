@@ -9,7 +9,7 @@ This project demonstrates a Python pipeline that utilizes Hugging Face's transfo
 - dotenv
 - transformers
 - requests
-```
+````
 
 ## Getting Started
 
