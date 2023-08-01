@@ -22,7 +22,8 @@ cd your_project
 HUGGINGFACEHUB_API_TOKEN=your_api_token_here
 
 3. Run the image-to-text and text-to-speech pipeline:
-
+```bash 
 python main.py
+```
 
 
