@@ -4,10 +4,12 @@ This project demonstrates a Python pipeline that utilizes Hugging Face's transfo
 
 ## Requirements
 
-- Python 3.x
+```bash
+- Python 3.9
 - dotenv
 - transformers
 - requests
+```
 
 ## Getting Started
 
